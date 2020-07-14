@@ -14,6 +14,7 @@ using SocialMedia.core.Interfaces;
 using SocialMedia.Infraestructura.Data;
 using SocialMedia.Infraestructura.Repositorios;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
 
 namespace SocialMedia.Api
 {
@@ -38,6 +39,9 @@ namespace SocialMedia.Api
 
             //Resolución de dependencias
             services.AddTransient<IPostRepository, PostRepository>();
+
+            //Mapeo de entidades con DTOS a nivel de ensamblador
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

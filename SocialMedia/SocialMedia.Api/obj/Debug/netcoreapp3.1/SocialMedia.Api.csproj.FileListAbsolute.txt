@@ -52,5 +52,5 @@ C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcor
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
-C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

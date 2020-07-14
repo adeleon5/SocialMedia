@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZJDDu54AP3a58kPeCyzJnCz6f1FiA66VPSLNm6FwwHc97VLeTb2Aq6O4TtaGIRMY4S5hYGBaDbdB/i4pn9qmw==",
+  "dgSpecHash": "AQYWX+LfXRdSJGy7Mjv5yPvrwS1x4GqyCohXlHsVKcMda3JxMomz7MhoakMCoLCgn1eWtuBa9ZdOxt6/BXQgog==",
   "success": true,
   "projectFilePath": "C:\\Users\\pilo_\\Source\\Repos\\RESTFul\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pilo_\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\pilo_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.0\\automapper.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -58,7 +60,7 @@
     "C:\\Users\\pilo_\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\pilo_\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

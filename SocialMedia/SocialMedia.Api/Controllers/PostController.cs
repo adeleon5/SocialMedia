@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 using SocialMedia.core.DTOs;
 using SocialMedia.core.Entities;
 using SocialMedia.core.Interfaces;
@@ -14,10 +16,12 @@ namespace SocialMedia.Api.Controllers
     {
         //inicio de una inyeccion de dependencia, se hace a traves del constructor pasando una interface
         private readonly IPostRepository _postRepository;
+        private readonly IMapper _mapper; 
 
-        public PostController(IPostRepository postRespository)
+        public PostController(IPostRepository postRespository, IMapper mapper)
         {
             _postRepository = postRespository;
+            _mapper = mapper;
         }
 
         //devuelve listado
