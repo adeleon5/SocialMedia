@@ -3,6 +3,7 @@ using SocialMedia.core.DTOs;
 using SocialMedia.core.Entities;
 using SocialMedia.core.Interfaces;
 using SocialMedia.Infraestructura.Repositorios;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace SocialMedia.Api.Controllers
@@ -24,6 +25,14 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPost()
         {
             var posts = await _postRepository.GetPosts();
+            var postsDto = posts.Select(x => new PostDto{ 
+
+                PostId = x.PostId,
+                Date = x.Date,
+                Description = x.Description,
+                Image = x.Image,
+                UserId = x.UserId
+            });
             return Ok(posts); //estatus 200
         }
 
@@ -32,6 +41,14 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPos(int id)
         {
             var post = await _postRepository.GetPost(id);
+            var postDto = new PostDto
+            {
+                PostId = post.PostId,
+                Date = post.Date,
+                Description = post.Description,
+                Image = post.Image,
+                UserId = post.UserId
+            };
             return Ok(post); //estatus 200
         }
 
