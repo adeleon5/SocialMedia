@@ -1,0 +1,12 @@
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\bin\Debug\netstandard2.0\GestionArticulos.core.dll
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.csprojAssemblyReference.cache
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.AssemblyInfo.cs
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\bin\Debug\netstandard2.0\GestionArticulos.Infraestructure.deps.json
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\bin\Debug\netstandard2.0\GestionArticulos.Infraestructure.dll
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\bin\Debug\netstandard2.0\GestionArticulos.Infraestructure.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\bin\Debug\netstandard2.0\GestionArticulos.core.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.csproj.CopyComplete
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.dll
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.Infraestructure\obj\Debug\netstandard2.0\GestionArticulos.Infraestructure.csproj.CoreCompileInputs.cache

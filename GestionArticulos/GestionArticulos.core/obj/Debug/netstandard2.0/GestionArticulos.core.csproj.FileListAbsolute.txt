@@ -1,0 +1,9 @@
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\bin\Debug\netstandard2.0\GestionArticulos.core.deps.json
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\bin\Debug\netstandard2.0\GestionArticulos.core.dll
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\bin\Debug\netstandard2.0\GestionArticulos.core.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.csprojAssemblyReference.cache
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.AssemblyInfoInputs.cache
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.AssemblyInfo.cs
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.csproj.CoreCompileInputs.cache
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.dll
+C:\Users\pilo_\Source\Repos\RESTFul\GestionArticulos\GestionArticulos.core\obj\Debug\netstandard2.0\GestionArticulos.core.pdb

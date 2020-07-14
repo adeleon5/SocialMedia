@@ -1,0 +1,12 @@
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\bin\Debug\netstandard2.0\SocialMedia.Infraestructura.deps.json
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\bin\Debug\netstandard2.0\SocialMedia.Infraestructura.dll
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\bin\Debug\netstandard2.0\SocialMedia.Infraestructura.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\bin\Debug\netstandard2.0\SocialMedia.core.dll
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\bin\Debug\netstandard2.0\SocialMedia.core.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.csprojAssemblyReference.cache
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.AssemblyInfo.cs
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.csproj.CopyComplete
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.dll
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.csproj.CoreCompileInputs.cache
