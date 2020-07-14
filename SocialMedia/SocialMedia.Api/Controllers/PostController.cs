@@ -33,7 +33,7 @@ namespace SocialMedia.Api.Controllers
                 Image = x.Image,
                 UserId = x.UserId
             });
-            return Ok(posts); //estatus 200
+            return Ok(postsDto); //estatus 200
         }
 
         //devuelve un elemento
@@ -49,7 +49,7 @@ namespace SocialMedia.Api.Controllers
                 Image = post.Image,
                 UserId = post.UserId
             };
-            return Ok(post); //estatus 200
+            return Ok(postDto); //estatus 200
         }
 
         //Inserta un publicación
