@@ -5,6 +5,7 @@ using SocialMedia.core.DTOs;
 using SocialMedia.core.Entities;
 using SocialMedia.core.Interfaces;
 using SocialMedia.Infraestructura.Repositorios;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -29,14 +30,7 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPost()
         {
             var posts = await _postRepository.GetPosts();
-            var postsDto = posts.Select(x => new PostDto{ 
-
-                PostId = x.PostId,
-                Date = x.Date,
-                Description = x.Description,
-                Image = x.Image,
-                UserId = x.UserId
-            });
+            var postsDto = _mapper.Map<IEnumerable<PostDto>>(posts);
             return Ok(postsDto); //estatus 200
         }
 
@@ -45,14 +39,7 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPos(int id)
         {
             var post = await _postRepository.GetPost(id);
-            var postDto = new PostDto
-            {
-                PostId = post.PostId,
-                Date = post.Date,
-                Description = post.Description,
-                Image = post.Image,
-                UserId = post.UserId
-            };
+            var postDto = _mapper.Map<PostDto>(post);
             return Ok(postDto); //estatus 200
         }
 
@@ -60,13 +47,7 @@ namespace SocialMedia.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> InsertPos(PostDto postDto)
         {
-            var post = new Post
-            {
-                Date = postDto.Date,
-                Description = postDto.Description,
-                Image = postDto.Image,
-                UserId = postDto.UserId
-            };
+            var post = _mapper.Map<Post>(postDto);
             await _postRepository.InsertPost(post);
             return Ok(post); //estatus 200
         }

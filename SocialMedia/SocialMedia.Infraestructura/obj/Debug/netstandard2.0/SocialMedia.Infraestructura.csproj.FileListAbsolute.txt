@@ -9,3 +9,4 @@ C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.csproj.CopyComplete
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.dll
 C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.pdb
+C:\Users\pilo_\Source\Repos\RESTFul\SocialMedia\SocialMedia.Infraestructura\obj\Debug\netstandard2.0\SocialMedia.Infraestructura.csproj.CoreCompileInputs.cache
