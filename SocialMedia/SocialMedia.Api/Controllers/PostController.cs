@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SocialMedia.core.DTOs;
 using SocialMedia.core.Entities;
 using SocialMedia.core.Interfaces;
 using SocialMedia.Infraestructura.Repositorios;
@@ -36,8 +37,15 @@ namespace SocialMedia.Api.Controllers
 
         //Inserta un publicación
         [HttpPost]
-        public async Task<IActionResult> InsertPos(Post post)
+        public async Task<IActionResult> InsertPos(PostDto postDto)
         {
+            var post = new Post
+            {
+                Date = postDto.Date,
+                Description = postDto.Description,
+                Image = postDto.Image,
+                UserId = postDto.UserId
+            };
             await _postRepository.InsertPost(post);
             return Ok(post); //estatus 200
         }
