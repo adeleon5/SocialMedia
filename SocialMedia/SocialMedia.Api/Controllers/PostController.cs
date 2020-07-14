@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SocialMedia.core.Entities;
 using SocialMedia.core.Interfaces;
 using SocialMedia.Infraestructura.Repositorios;
 using System.Threading.Tasks;
@@ -30,6 +31,14 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPos(int id)
         {
             var post = await _postRepository.GetPost(id);
+            return Ok(post); //estatus 200
+        }
+
+        //Inserta un publicación
+        [HttpPost]
+        public async Task<IActionResult> InsertPos(Post post)
+        {
+            await _postRepository.InsertPost(post);
             return Ok(post); //estatus 200
         }
     }
